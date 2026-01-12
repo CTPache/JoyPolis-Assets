@@ -70,6 +70,20 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
 └── Sketches/                    # Concept sketches
 ```
 
+## Main Character Artwork
+
+### Phoenix Wright
+![Phoenix Wright](Char_Phoenix.png)
+
+### Maya Fey
+![Maya Fey](Char_Maya.png)
+
+### Miles Edgeworth
+![Miles Edgeworth](Char_Edgeworth.png)
+
+### Restaurant Artwork
+![Restaurant Artwork](GS_Restaurant_Artwork.png)
+
 ## GSiJP: Featured Characters
 
 The attractions featured both original characters and familiar faces from the series, including:
