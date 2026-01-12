@@ -23,7 +23,7 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
 
 ## Repository Structure
 
-### 📁 Main Content
+### Main Content
 
 ```
 ├── BG/                          # Background images
@@ -57,20 +57,16 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
 │       ├── evidence/
 │       └── profiles/
 │
-├── Gyakuten Kenji/              # Gyakuten Kenji attraction content
-│   ├── EP-1 (Turnabout Symbol)/
-│   ├── EP-2 (Turnabout Message)/
-│   └── EP-3 (Turnabout Theme Park)/
+└── Ace Attorney Joypolis Booklets/  # Attraction booklets
+    ├── Clean/
+    └── Translated/
 │
-├── Ace Attorney Joypolis Booklets/  # Attraction booklets
-│   ├── Clean/
-│   └── Translated/
-│
-├── Posters/                     # Promotional posters
-└── Sketches/                    # Concept sketches
+├── Artwork/                     # Promotional materials
+│   ├── Posters/
+│   └── Sketches/
 ```
 
-## GSiJP: Featured Characters
+## Featured Characters
 
 The attractions featured both original characters and familiar faces from the series, including:
 
@@ -89,7 +85,7 @@ The attractions featured both original characters and familiar faces from the se
     - **Ini Miney**
     - **Will Powers**
 - *Episode 3: Turnabout Don*
-    - **Yumi Temgashiwa** - ** (Victim)
+    - **Yumi Temgashiwa** (Victim)
     - **Kogyoin Don** - *独雲 興行院* (New Character)
     - **Desirée DeLite**
     - **Sal Manella**
@@ -112,14 +108,20 @@ Assets recreated using various tools and software, primarily:
 
 A lot of promotional material and on-site images were used (mainly on Ameba.jp), as well as footage of the attraction. 
 
-## Legal Notice
+## Current Status
 
-Ace Attorney (Gyakuten Saiban) is © CAPCOM. These are fan-made recreations of attraction materials for preservation and archival purposes. All rights to the original characters and stories belong to CAPCOM.
+### Completed
+- Character sprite recreations for key characters and episodes
+- Background images for principal scenes
+- CG artwork exports
+- Court Record structure for evidence and profiles
+- Booklet translation and cleanup for Fly High and Locked Room
 
-## Contributing
+### In Progress
+- Additional character expressions and poses (e.g., Oldbag, Don)
+- Completing background sets across all locations
+- Additional CG scenes and refinements
+- Don episode booklet translation
+- Asset quality improvements and proofreading
+- Text script from video references
 
-If you have additional materials from the Joypolis attractions or improvements to existing assets, contributions are welcome!
-
----
-
-**Note:** This is a fan preservation project and is not affiliated with CAPCOM or SEGA.
