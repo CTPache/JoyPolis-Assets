@@ -70,20 +70,6 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
 └── Sketches/                    # Concept sketches
 ```
 
-## Main Character Artwork
-
-### Phoenix Wright
-![Phoenix Wright](Char_Phoenix.png)
-
-### Maya Fey
-![Maya Fey](Char_Maya.png)
-
-### Miles Edgeworth
-![Miles Edgeworth](Char_Edgeworth.png)
-
-### Restaurant Artwork
-![Restaurant Artwork](GS_Restaurant_Artwork.png)
-
 ## GSiJP: Featured Characters
 
 The attractions featured both original characters and familiar faces from the series, including:
@@ -98,31 +84,33 @@ The attractions featured both original characters and familiar faces from the se
     - **Maggey Byrde**
     - **Frank Shawit**
 - *Episode 2: Turnabout Locked Room*
-    - **Rando Daiba** (Victim)
+    - **Rando Daiba** - *台場乱道* (Victim)
     - **Wendy Oldbag** (New sprites)
     - **Ini Miney**
     - **Will Powers**
 - *Episode 3: Turnabout Don*
-    - **Yumi Temgashi** (Victim)
-    - **Kogyoin Don** (New Character)
+    - **Yumi Temgashiwa** - ** (Victim)
+    - **Kogyoin Don** - *独雲 興行院* (New Character)
     - **Desirée DeLite**
     - **Sal Manella**
 
 ### New Characters info:
 
-> **Nakaki Kurumi**
+> **Nakaki Kurumi** - The victim of Turnabout Fly High, a character involved in the first case of the Gyakuten Saiban in Joypolis attraction.
 
-> **Rando Daiba**
+> **Rando Daiba** - The victim of Turnabout Locked Room, a character central to the mystery in the second original case of the attraction.
 
-> **Yumi Temgashi**
+> **Yumi Temgashiwa** - A veteran actress and high-ranking member of Joypolis, she is the victim in Turnabout Don. Known for her successful career and dedication to the entertainment industry, she was an obstacle to Kogyoin Don's attempts to acquire control of Joypolis.
 
-> **Kogyoin Don**
+> **Kogyoin Don** - A former martial artist turned celebrity and entertainment mogul. Standing at 6'4" (195 cm), Don is known for his incredible strength and intimidating presence. He attempted to take over Joypolis to complete his entertainment empire but was thwarted by Yumi Temgashiwa. In his arrogance, Don murdered Temgashiwa during a film production at the Joypolis Coliseum, using a real glass pot during what was supposed to be a staged fight scene. His defining characteristic is his intense, glowing yellow-eyed glare that could intimidate anyone. Despite his wealth and influence, he was ultimately brought to justice by Phoenix Wright and Miles Edgeworth.
 
 ## Credits
 
 Assets recreated using various tools and software, primarily:
 - Generated with Nano Banana Pro
 - Edited with GIMP
+
+A lot of promotional material and on-site images were used (mainly on Ameba.jp), as well as footage of the attraction. 
 
 ## Legal Notice
 

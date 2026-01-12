@@ -7,12 +7,6 @@ This folder contains images for Gyakuten Kenji (Ace Attorney Investigations) cas
 ### GK Card
 ![GK Card](GK_Card.png)
 
-### Gyakuten Kenji Background 1
-![Gyakuten Kenji BG 1](GyakutenKenji_BG1.png)
-
-### Gyakuten Kenji Background 2
-![Gyakuten Kenji BG 2](GyakutenKenji_BG2.png)
-
 ### Poster - GK
 ![Poster GK](Poster_GK.png)
 
