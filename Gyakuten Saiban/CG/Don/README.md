@@ -11,9 +11,14 @@ This folder contains CG (Computer Graphics) images for the Don case.
 ![Ending Turnabout Don Mia](Ending_Turnabout_Don_Mia.png)
 
 ### Intro Scene
-![Intro Scene (background)](Intro_1_background.png)
-![Intro Scene 1](Intro_1.png)
-![Intro Scene 2](Intro_2.png)
 
-### Victim Portrait
-![Victim Portrait](Victim.png)
+### Intro Characters
+![Intro Desi Back](Intro_Desi_Back.png)
+![Intro Desi Front](Intro_Desi_Front.png)
+![Intro Yumi Back](Intro_Yumi_Back.png)
+![Intro Yumi Front](Intro_Yumi_Front.png)
+![Intro Scene (background)](Intro_background.png)
+![Intro Desi 2](Intro_2.png)
+
+### Crime scene
+![Yumi Dead](Yumi_Dead.png)
