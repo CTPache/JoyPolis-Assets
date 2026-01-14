@@ -6,5 +6,9 @@ This folder contains background images for the Fly High case.
 
 ### Fly High - JoyPolis
 ![Fly High JoyPolis](FlyHigh_JoyPolis.png)
+
 ### Fly High - Third Floor
 ![Fly High Third Floor](FlyHigh_3rdFloor.png)
+
+### Fly High - Office
+![Fly High Office](FlyHigh_Office.png)
