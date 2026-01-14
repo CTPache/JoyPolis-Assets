@@ -25,46 +25,44 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
 
 ### Main Content
 
-```
-├── BG/                          # Background images
-│   ├── Don/
-│   ├── Fly High/
-│   └── Locked Room/
-│
-├── CG/                          # CG artwork
-│   ├── Don/
-│   ├── Fly High/
-│   └── Locked Room/
-│
-├── Character_Sprites/           # Character sprite artwork
-│   ├── Don/
-│   ├── Fly High/
-│   │   ├── Byrde/
-│   │   └── Shawit/
-│   └── Locked Room/
-│       ├── Ini/
-│       ├── Oldbag/
-│       └── Powers/
-│
-├── Court_Record/                # Evidence and character profiles
-│   ├── Don/
-│   │   ├── evidence/
-│   │   └── profiles/
-│   ├── Fly High/
-│   │   ├── evidence/
-│   │   └── profiles/
-│   └── Locked Room/
-│       ├── evidence/
-│       └── profiles/
-│
-└── Ace Attorney Joypolis Booklets/  # Attraction booklets
-    ├── Clean/
-    └── Translated/
-│
-├── Artwork/                     # Promotional materials
-│   ├── Posters/
-│   └── Sketches/
-```
+- [BG/](BG/) — Background images
+    - [Don/](BG/Don/)
+    - [Fly High/](BG/Fly%20High/)
+    - [Locked Room/](BG/Locked%20Room/)
+
+- [CG/](CG/) — CG artwork
+    - [Don/](CG/Don/)
+    - [Fly High/](CG/Fly%20High/)
+    - [Locked Room/](CG/Locked%20Room/)
+
+- [Character_Sprites/](Character_Sprites/) — Character sprite artwork
+    - [Don/](Character_Sprites/Don/)
+    - [Fly High/](Character_Sprites/Fly%20High/)
+        - [Byrde/](Character_Sprites/Fly%20High/Byrde/)
+        - [Shawit/](Character_Sprites/Fly%20High/Shawit/)
+    - [Locked Room/](Character_Sprites/Locked%20Room/)
+        - [Ini/](Character_Sprites/Locked%20Room/Ini/)
+        - [Oldbag/](Character_Sprites/Locked%20Room/Oldbag/)
+        - [Powers/](Character_Sprites/Locked%20Room/Powers/)
+
+- [Court_Record/](Court_Record/) — Evidence and character profiles
+    - [Don/](Court_Record/Don/)
+        - [evidence/](Court_Record/Don/evidence/)
+        - [profiles/](Court_Record/Don/profiles/)
+    - [Fly High/](Court_Record/Fly%20High/)
+        - [evidence/](Court_Record/Fly%20High/evidence/)
+        - [profiles/](Court_Record/Fly%20High/profiles/)
+    - [Locked Room/](Court_Record/Locked%20Room/)
+        - [evidence/](Court_Record/Locked%20Room/evidence/)
+        - [profiles/](Court_Record/Locked%20Room/profiles/)
+
+- [Ace Attorney Joypolis Booklets/](Ace%20Attorney%20Joypolis%20Booklets/) — Attraction booklets
+    - [Clean/](Ace%20Attorney%20Joypolis%20Booklets/Clean/)
+    - [Translated/](Ace%20Attorney%20Joypolis%20Booklets/Translated/)
+
+- [Artwork/](Artwork/) — Promotional materials
+    - [Posters/](Artwork/Posters/)
+    - [Sketches/](Artwork/Sketches/)
 
 ## Featured Characters
 
@@ -99,14 +97,6 @@ The attractions featured both original characters and familiar faces from the se
 > **Yumi Temgashiwa** - A veteran actress and high-ranking member of Joypolis, she is the victim in Turnabout Don. Known for her successful career and dedication to the entertainment industry, she was an obstacle to Kogyoin Don's attempts to acquire control of Joypolis.
 
 > **Kogyoin Don** - A former martial artist turned celebrity and entertainment mogul. Standing at 6'4" (195 cm), Don is known for his incredible strength and intimidating presence. He attempted to take over Joypolis to complete his entertainment empire but was thwarted by Yumi Temgashiwa. In his arrogance, Don murdered Temgashiwa during a film production at the Joypolis Coliseum, using a real glass pot during what was supposed to be a staged fight scene. His defining characteristic is his intense, glowing yellow-eyed glare that could intimidate anyone. Despite his wealth and influence, he was ultimately brought to justice by Phoenix Wright and Miles Edgeworth.
-
-## Credits
-
-Assets recreated using various tools and software, primarily:
-- Generated with Nano Banana Pro
-- Edited with GIMP
-
-A lot of promotional material and on-site images were used (mainly on Ameba.jp), as well as footage of the attraction. 
 
 ## Current Status
 

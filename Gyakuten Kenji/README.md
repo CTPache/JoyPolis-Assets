@@ -14,26 +14,22 @@ The Miles Edgeworth: Ace Attorney Investigations attraction was an interactive e
 2. **Episode 2: Turnabout Message** (逆転のメッセージ)
 3. **Episode 3: Turnabout Theme Park** (逆転のテーマパーク)
 
-## 📁 Folder Structure
+## Main Content
 
-```
-Gyakuten Kenji/
-├── Artwork/                     # Promotional materials and artwork
-│   ├── GK_Card.png
-│   ├── Poster_GK.png
-│   ├── Poster_GK2.png
-│   └── Poster_GK2_Text.png
-│
-├── EP-1 (Turnabout Symbol)/     # Episode 1 content
-├── EP-2 (Turnabout Messge)/     # Episode 2 content
-├── EP-3 (Turnabout Theme Park)/ # Episode 3 content
-│
-├── GyakutenKenji_BG1.png        # Background image 1
-├── GyakutenKenji_BG2.png        # Background image 2
-└── README.md                    # This file
-```
+- [Artwork/](Artwork/README.md) — Promotional materials and artwork
+	- GK_Card.png
+	- Poster_GK.png
+	- Poster_GK2.png
+	- Poster_GK2_Text.png
 
-## 📝 Current Status
+- [EP-1 (Turnabout Symbol)/](EP-1%20(Turnabout%20Symbol)/README.md) — Episode 1 content
+- [EP-2 (Turnabout Messge)/](EP-2%20(Turnabout%20Messge)/README.md) — Episode 2 content
+- [EP-3 (Turnabout Theme Park)/](EP-3%20(Turnabout%20Theme%20Park)\README.md) — Episode 3 content
+
+- GyakutenKenji_BG1.png — Background image 1
+- GyakutenKenji_BG2.png — Background image 2
+
+## Current Status
 
 Due to the attraction's discontinuation in 2015 and the limited preservation efforts that followed, documentation for Gyakuten Kenji is significantly less complete than Gyakuten Saiban. What materials we have are primarily:
 
@@ -43,7 +39,7 @@ Due to the attraction's discontinuation in 2015 and the limited preservation eff
 
 **Note:** Unlike the Gyakuten Saiban materials which have been extensively recreated and translated, the Gyakuten Kenji assets remain largely in their original form or as basic reference materials.
 
-## 🤝 Contributing
+## Contributing
 
 If you have materials from the Gyakuten Kenji attraction, we would greatly appreciate contributions including:
 

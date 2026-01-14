@@ -72,7 +72,7 @@ These are fan-made recreations for preservation and archival purposes only. All 
 
 For detailed information about specific episodes and characters, please refer to the README files within each attraction's folder:
 - [Gyakuten Saiban README](Gyakuten%20Saiban/README.md)
-- Episode-specific READMEs in the Gyakuten Kenji folder
+- [Gyakuten Kenji README](Gyakuten%20Kenji/README.md)
 
 ---
 
