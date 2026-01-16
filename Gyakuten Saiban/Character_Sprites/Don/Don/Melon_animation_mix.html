@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Layering</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: violet;
+        }
+
+        .container {
+            background-color: violet;
+            position: relative;
+            display: inline-block;
+            width: fit-content;
+        }
+
+        .base-image {
+            position: relative;
+            height: auto;
+        }
+
+        .overlay-image {
+            position: absolute;
+            left: 0;
+            height: auto;
+        }
+        img {
+            max-width: 97%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img id="base-img" src="Don_break_melon.webp" alt="Don Normal" class="base-image">
+        <img id="overlay-img" src="Bunny_walk_melon.webp" alt="Bunny Walk" class="overlay-image">
+    </div>
+</body>
+
+</html>
