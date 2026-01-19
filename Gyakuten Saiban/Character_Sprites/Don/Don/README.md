@@ -16,8 +16,20 @@ This folder contains character sprites for Don from the Don case.
 ### Don - Break Melon
 ![Don Break Melon](Don_break_melon.webp)
 
+### Bunny
+![Bunny](Bunny.webp)
+
+### Bunny - Melon
+![Bunny Melon](Bunny-melon.webp)
+
+### Bunny Walk
+![Bunny Walk](Bunny_walk.webp)
+
 ### Bunny Walk Melon
 ![Bunny Walk Melon](Bunny_walk_melon.webp)
+
+### Bunny Walk Out
+![Bunny Walk Out](Bunny_walk_out.webp)
 
 ### Don - Shirtless Flex
 ![Don Shirtless Flex](Don_shirtless_flex.webp)
