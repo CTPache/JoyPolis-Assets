@@ -58,23 +58,30 @@ Special sequences and action animations.
 
 Animations involving the melon props.
 
-#### Don - Break Melon
+#### Don - Break Watermelon
 ![Don Break Melon](Special%20animations/Breaking%20fruit/Don_break_melon.webp)
 
-#### Bunny Walk Melon
-![Bunny Walk Melon](Special%20animations/Breaking%20fruit/Bunny_walk_melon.webp)
+#### Don - Break Jackfruit
+![Don Break Jackfruit](Special%20animations/Breaking%20fruit/Don_break_jackfruit.webp)
+
+#### Bunny Walking (watermelon)
+![Bunny Walk Watermelon](Special%20animations/Breaking%20fruit/Bunny_walk_melon.webp)
+#### Bunny Walking (jackfruit)
+![Bunny Walk Jackfruit](Special%20animations/Breaking%20fruit/Bunny_walk_jackfruit.webp)
 #### Bunny Walk out
 ![Bunny Walk](Special%20animations/Breaking%20fruit/Bunny_walk_out.webp)
 #### Bunny still (empty tray)
 ![Bunny still](Special%20animations/Breaking%20fruit/Bunny.webp)
-#### Bunny still (melon)
+#### Bunny still (watermelon)
 ![Bunny still](Special%20animations/Breaking%20fruit/Bunny_melon.webp)
+#### Bunny still (jackfruit)
+![Bunny jackfruit](Special%20animations/Breaking%20fruit/Bunny_jackfruit.webp)
 
 ### Breaking Shirt
 
 Animations of the transformation sequence.
 
-![Don Breaking Shirt](Special%20animations/Breaking%20Shirt/Last.webp)
+![Don Breaking Shirt](Special%20animations/Breaking%20Shirt.webp)
 
 ### Breakdown
 
