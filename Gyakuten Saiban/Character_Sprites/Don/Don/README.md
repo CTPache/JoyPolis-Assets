@@ -85,5 +85,14 @@ Animations of the transformation sequence.
 
 ### Breakdown
 
+### Don - Breakdown animation
+
+![Donbreakdown](Special%20animations/Breakdown/Breakdown.webp)
+
 ### Don - After breakdown
-![Don After breakdown](Special%20animations/Breakdown/Don_shirtless_No_Glasses.webp)
+![Don After breakdown](Special%20animations/Breakdown/Don_Broken_Talking_1.webp)
+![Don After breakdown](Special%20animations/Breakdown/Don_Broken_Talking_2.webp)
+
+### Don - After breakdown (screaming)
+![Don After breakdown](Special%20animations/Breakdown/Don_Broken_Screaming_1.webp)
+![Don After breakdown](Special%20animations/Breakdown/Don_Broken_Screaming_2.webp)
