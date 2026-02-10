@@ -50,6 +50,9 @@ Animations of Don after removing his shirt.
 
 ![Don Shirtless Peaking](Shirtless/Don_shirtless_Peek_Glasses.webp)
 
+### Don - Shirtless Chain Pull
+![Don Shirtless Chain Pull](Shirtless/Don_shirtless_Chain_Pull.webp)
+
 ## Special Animations
 
 Special sequences and action animations.
@@ -60,22 +63,29 @@ Animations involving the melon props.
 
 #### Don - Break Watermelon
 ![Don Break Melon](Special%20animations/Breaking%20fruit/Don_break_melon.webp)
-
 #### Don - Break Jackfruit
 ![Don Break Jackfruit](Special%20animations/Breaking%20fruit/Don_break_jackfruit.webp)
+#### Don - Break Watermelon
+![Don Break Watermelon](Special%20animations/Breaking%20fruit/Don_break_watermelon.webp)
 
-#### Bunny Walking (watermelon)
-![Bunny Walk Watermelon](Special%20animations/Breaking%20fruit/Bunny_walk_melon.webp)
+#### Bunny Walking (Melon)
+![Bunny Walk Melon](Special%20animations/Breaking%20fruit/Bunny_walk_melon.webp)
 #### Bunny Walking (jackfruit)
 ![Bunny Walk Jackfruit](Special%20animations/Breaking%20fruit/Bunny_walk_jackfruit.webp)
+#### Bunny Walking (Watermelon)
+![Bunny Walk Watermelon](Special%20animations/Breaking%20fruit/Bunny_walk_watermelon.webp)
 #### Bunny Walk out
 ![Bunny Walk](Special%20animations/Breaking%20fruit/Bunny_walk_out.webp)
 #### Bunny still (empty tray)
 ![Bunny still](Special%20animations/Breaking%20fruit/Bunny.webp)
-#### Bunny still (watermelon)
+#### Bunny still (melon)
 ![Bunny still](Special%20animations/Breaking%20fruit/Bunny_melon.webp)
 #### Bunny still (jackfruit)
 ![Bunny jackfruit](Special%20animations/Breaking%20fruit/Bunny_jackfruit.webp)
+#### Bunny still (watermelon)
+![Bunny still](Special%20animations/Breaking%20fruit/Bunny_watermelon.webp)
+
+
 
 ### Breaking Shirt
 
@@ -88,6 +98,12 @@ Animations of the transformation sequence.
 ### Don - Breakdown animation
 
 ![Donbreakdown](Special%20animations/Breakdown/Breakdown.webp)
+
+### Don - Breakdown (Breaking Glasses)
+![Don Breakdown Glasses](Special%20animations/Breakdown/Breakdown_break_glasses.webp)
+
+### Don - Breakdown (Breaking Stand)
+![Don Breakdown Stand](Special%20animations/Breakdown/Breakdown_break_stand.webp)
 
 ### Don - After breakdown
 ![Don After breakdown](Special%20animations/Breakdown/Don_Broken_Talking_1.webp)
