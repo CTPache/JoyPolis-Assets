@@ -21,3 +21,6 @@ This folder contains evidence images for the Locked Room case.
 
 ### Zombie
 ![Zombie_will](Zombie_will.png)
+
+### Soy sauce
+![Soy_fish](Soy_fish.png)
