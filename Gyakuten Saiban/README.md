@@ -36,7 +36,10 @@ The Miles Edgeworth: Ace Attorney Investigations attraction featured three episo
     - [Locked Room/](CG/Locked%20Room/)
 
 - [Character_Sprites/](Character_Sprites/) — Character sprite artwork
-    - [Don/](Character_Sprites/Don/)
+    - [Don/](Character_Sprites/Don/Don)
+        - [Don/](Character_Sprites/Don/Sal)
+        - [Sal/](Character_Sprites/Don/Desi)
+        - [Desiree/](Character_Sprites/Don/)
     - [Fly High/](Character_Sprites/Fly%20High/)
         - [Byrde/](Character_Sprites/Fly%20High/Byrde/)
         - [Shawit/](Character_Sprites/Fly%20High/Shawit/)
@@ -92,26 +95,24 @@ The attractions featured both original characters and familiar faces from the se
 
 > **Nakaki Kurumi** - The victim of Turnabout Fly High, a character involved in the first case of the Gyakuten Saiban in Joypolis attraction.
 
-> **Rando Daiba** - The victim of Turnabout Locked Room, a character central to the mystery in the second original case of the attraction.
+> **Rando Daiba** - The victim of Turnabout Locked Room, a character central to the mystery in the second original case of the attraction. He is the character returning from the Gyakuten Kenji attraction.
 
 > **Yumi Temgashiwa** - A veteran actress and high-ranking member of Joypolis, she is the victim in Turnabout Don. Known for her successful career and dedication to the entertainment industry, she was an obstacle to Kogyoin Don's attempts to acquire control of Joypolis.
 
-> **Kogyoin Don** - A former martial artist turned celebrity and entertainment mogul. Standing at 6'4" (195 cm), Don is known for his incredible strength and intimidating presence. He attempted to take over Joypolis to complete his entertainment empire but was thwarted by Yumi Temgashiwa. In his arrogance, Don murdered Temgashiwa during a film production at the Joypolis Coliseum, using a real glass pot during what was supposed to be a staged fight scene. His defining characteristic is his intense, glowing yellow-eyed glare that could intimidate anyone. Despite his wealth and influence, he was ultimately brought to justice by Phoenix Wright and Miles Edgeworth.
+> **Kogyoin Don** - A former martial artist turned celebrity and entertainment mogul. Standing at 6'4" (195 cm), Don is known for his incredible strength and intimidating presence. His defining characteristic is his intense, glowing yellow-eyed glare that could intimidate anyone.
 
 ## Current Status
 
 ### Completed
-- Character sprite recreations for key characters and episodes
+- Character sprite recreations for all characters and episodes
 - Background images for principal scenes
 - CG artwork exports
 - Court Record structure for evidence and profiles
-- Booklet translation and cleanup for Fly High and Locked Room
+- Booklet translation and cleanup
 
 ### In Progress
-- Additional character expressions and poses (e.g., Oldbag, Don)
 - Completing background sets across all locations
 - Additional CG scenes and refinements
-- Don episode booklet translation
 - Asset quality improvements and proofreading
 - Text script from video references
 
