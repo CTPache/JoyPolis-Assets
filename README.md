@@ -40,17 +40,13 @@ Featured three original episodes:
 Assets in this repository were recreated using:
 - **Nano Banana Pro** - Primary generation tool
 - **GIMP** - Image editing and refinement
+- DaVinci Resolve - Video editing
 
 Source materials include:
 - Promotional materials from Ameba.jp and social media
 - On-site photographs and documentation
 - Attraction footage and gameplay videos
 - Official Joypolis booklets and promotional items
-
-## File Organization
-
-- **PNG/JPG files**: Final exported assets
-- **README.md files**: Documentation in each folder explaining the contents
 
 ## Contributing
 
