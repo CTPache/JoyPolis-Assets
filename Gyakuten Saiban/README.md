@@ -109,9 +109,9 @@ The attractions featured both original characters and familiar faces from the se
 - CG artwork exports
 - Court Record structure for evidence and profiles
 - Booklet translation and cleanup
+- Completing background sets across all locations
 
 ### In Progress
-- Completing background sets across all locations
 - Additional CG scenes and refinements
 - Asset quality improvements and proofreading
 - Text script from video references

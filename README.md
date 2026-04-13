@@ -42,6 +42,8 @@ Assets in this repository were recreated using:
 - **GIMP** - Image editing and refinement
 - DaVinci Resolve - Video editing
 
+A guide explaining the process in detail can be found [Here](/AssetCreation.md)
+
 Source materials include:
 - Promotional materials from Ameba.jp and social media
 - On-site photographs and documentation
