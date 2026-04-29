@@ -24,8 +24,7 @@ Featured three original cases with exclusive characters and storylines:
    - New characters: Rando Daiba (victim), featuring Wendy Oldbag, Ini Miney, and Will Powers
 
 3. **Episode 3: Turnabout Don** (逆転のドン)
-   - New characters: Yumi Temgashiwa (victim) and Kogyoin Don (antagonist)
-   - Also featuring Desirée DeLite and Sal Manella
+   - New characters: Yumi Temgashiwa (victim) and Kogyoin Don (antagonist), featuring Desirée DeLite and Sal Manella
 
 ### Gyakuten Kenji in Joypolis (Miles Edgeworth)
 
@@ -70,9 +69,9 @@ These are fan-made recreations for preservation and archival purposes only. All 
 
 For detailed information about specific episodes and characters, please refer to the README files within each attraction's folder:
 - [Gyakuten Saiban README](Gyakuten%20Saiban/README.md)
-- [Gyakuten Kenji README](Gyakuten%20Kenji/README.md)
+- Gyakuten Kenji README(TODO: Not enough information)
 
 ---
 
-**Last Updated:** January 2026  
+**Last Updated:** April 2026  
 **Project Status:** Active Development
