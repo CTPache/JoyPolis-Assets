@@ -1,25 +1,8 @@
-# Ace Attorney Joypolis Assets Recreation
-
-This repository contains recreated assets from the Ace Attorney attractions at SEGA's Joypolis amusement centers in Japan:
-
-- **Gyakuten Saiban in Joypolis** (逆転裁判 in Joypolis)
-- **Gyakuten Kenji in Joypolis** (逆転検事 in Joypolis)
-
-These attractions were interactive experiences that featured original stories set in the Ace Attorney universe. This project aims to preserve and recreate the visual assets from these attractions.
-
-## About the Attractions
-
-### Gyakuten Saiban in Joypolis
+# Gyakuten Saiban in Joypolis
 The Phoenix Wright: Ace Attorney attraction featured three original cases:
 - **Turnabout Don** (逆転のドン)
 - **Fly High** (飛翔)
 - **Locked Room** (密室)
-
-### Gyakuten Kenji in Joypolis
-The Miles Edgeworth: Ace Attorney Investigations attraction featured three episodes:
-- **EP-1: Turnabout Symbol** (逆転の紋章)
-- **EP-2: Turnabout Message** (逆転のメッセージ)
-- **EP-3: Turnabout Theme Park** (逆転のテーマパーク)
 
 ## Repository Structure
 
@@ -78,18 +61,18 @@ The attractions featured both original characters and familiar faces from the se
     - **Dick Gumshoe**
 - *Episode 1: Turnabout Fly High*
     - **Nakaki Kurumi** (Victim)
-    - **Maggey Byrde**
-    - **Frank Shawit**
+    - **Maggey Byrde** (New sprites)
+    - **Frank Shawit** (New sprites*)
 - *Episode 2: Turnabout Locked Room*
     - **Rando Daiba** - *台場乱道* (Victim)
     - **Wendy Oldbag** (New sprites)
-    - **Ini Miney**
+    - **Ini Miney** (New sprites)
     - **Will Powers**
 - *Episode 3: Turnabout Don*
     - **Yumi Temgashiwa** (Victim)
     - **Kogyoin Don** - *独雲 興行院* (New Character)
     - **Desirée DeLite**
-    - **Sal Manella**
+    - **Sal Manella** (New sprites)
 
 ### New Characters info:
 
@@ -112,7 +95,5 @@ The attractions featured both original characters and familiar faces from the se
 - Completing background sets across all locations
 
 ### In Progress
-- Additional CG scenes and refinements
-- Asset quality improvements and proofreading
 - Text script from video references
 
